@@ -205,4 +205,4 @@ endif()
 # Executable name will be EnergyPlus_tests
 # Execute energyplus_tests --help for options using gtest runner
 # Execute energyplus_tests with no arguments to run all tests
-CREATE_TEST_TARGETS( energyplus "${test_src}" "${test_dependencies}" )
+# CREATE_TEST_TARGETS( energyplus "${test_src}" "${test_dependencies}" )
